@@ -1,0 +1,255 @@
+body {
+    padding: 0;
+    margin: 5px;
+    font-family: 'Anton', sans-serif;
+    color: black;
+    font-size: 16px;
+    background: url('../img/%D0%A4%D0%9E%D0%9D.jpg');
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+ul, li {
+    display: block;
+    padding: 0;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.headr {
+    background: url('../img/1612874248_20-p-krasnii-snezhnii-fon-44.jpg') no-repeat center;
+    border-radius: 10px;
+}
+
+header a {
+    color: #a605d6;
+}
+
+.logo {
+    margin: 15px;
+}
+
+.menu {
+    display: flex;
+    padding-left: 200px;
+}
+
+.menu li a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.menu li {
+    margin-right: 100px;
+}
+
+.tel {
+font-size: 20px;
+margin-left: 1000px;
+padding-top: 100px;
+}
+
+
+
+
+.nav {
+    display: flex;
+}
+
+.logo {
+    margin-left: 1px;
+    border-radius: 50%; 
+}
+
+
+/* GTA VICE CITY*/
+.VIY { 
+    background: url('../img/25163836.jpg');
+    margin-right: 100px;
+    padding: 25px;
+    display: block;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 10px 10px 18px 8px;
+}
+
+
+.DOW {
+    font-size: 22px;
+    color: #000000;
+    margin: 440px;
+}
+
+.vi {
+    width: 300px;
+    border-radius: 28px;
+    box-shadow: 10px 10px 18px 8px;
+    padding: 5px;
+}
+
+.h11 {
+    color: #9f0c45;
+    font-size: 50px;
+    box-shadow: 10px 10px 10px;
+}
+/* GTA VICE CITY*/
+
+/* GTA SAN ANDRESS*/
+.DOW1 {
+    font-size: 22px;
+    color: #000000;
+    margin: 440px;
+}
+
+.vi2 {
+    width: 300px;
+    border-radius: 28px;
+    box-shadow: 10px 10px 18px 8px;
+    padding: 5px;
+}
+
+.VIY2 {
+    background: url('../img/San.jpg');
+    margin-left: 100px;
+    padding: 25px;
+    display: block;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 10px 10px 18px 8px;
+        
+}
+
+.h22 {
+    color: #0e571c;
+    font-size: 50px;
+    box-shadow: 10px 10px 10px;
+}
+   /* GTA SAN ANDRESS*/
+
+   /* GTA 3*/
+.DOW2 {
+    font-size: 22px;
+    color: #000000;
+    margin: 440px;
+    color: #622a0c;
+}
+
+.vi3 {
+    width: 380px;
+    border-radius: 28px;
+    box-shadow: 10px 10px 18px 8px;
+    padding: 5px;
+}
+
+.VIY3 {
+    background: url('../img/gta%203.jpg');
+    margin-right: 100px;
+    padding: 25px;
+    display: block;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 10px 10px 18px 12px;
+}
+.h33 {
+    color: #1d1d1a;
+    font-size: 50px;
+    box-shadow: 10px 10px 10px;
+}
+    /* GTA 3*/
+
+    /* GTA IV*/
+.DOW3 {
+    font-size: 22px;
+    color: #000000;
+    margin: 440px;
+    color: #622a0c;
+}
+
+.vi4 {
+    width: 380px;
+    border-radius: 28px;
+    box-shadow: 10px 10px 18px 8px;
+    padding: 5px;
+}
+
+.VIY4 {
+    background: url('../img/gta%204.jpg');
+    margin-left: 100px;
+    padding: 25px;
+    display: block;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 10px 10px 18px 12px;
+}
+
+.h44 {
+    color: #1d1d1a;
+    font-size: 50px;
+    box-shadow: 10px 10px 10px;
+}
+    /* GTA IV*/
+
+    /* GTA V*/
+.DOW4 {
+    font-size: 22px;
+    color: #000000;
+    margin: 440px;
+    color: #622a0c;
+}
+
+.vi5 {
+    width: 380px;
+    border-radius: 28px;
+    box-shadow: 10px 10px 18px 8px;
+    padding: 5px;
+}
+
+.VIY5 {
+    background: url('../img/GTA%20V.jpeg');
+    margin-right: 100px;
+    padding: 25px;
+    display: block;
+    border-radius: 20px;
+    margin-top: 50px;
+    box-shadow: 10px 10px 18px 12px;
+}
+
+.h55 {
+    color: #119b0b;
+    font-size: 50px;
+    box-shadow: 10px 10px 10px;
+}
+        /* GTA V*/
+
+.SS {
+    color: #ebd3d3;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.Tg {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.Vk {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.tg {
+    color: #1485cc;
+}
+
+.vk {
+    color: #0c72be;
+}
